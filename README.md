@@ -9,3 +9,5 @@ you can change the demilimeter inside the read_csv() function to whatever actual
 ### 2
 
 read the headers
+
+- to get multiple items at the same time, instead of only getting the column name you can insert a list instead
